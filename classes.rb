@@ -2,6 +2,8 @@ class Colleges
   
     def initialize(name, type, mascot)
       @name = name 
+      @type = type
+      @mascot = mascot
     end
 
   end
