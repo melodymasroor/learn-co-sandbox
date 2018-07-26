@@ -6,5 +6,5 @@ class Colleges
 end
 
 tamu = Colleges.new("A & M","Public","Reveille")
-u_of_minn = Colleges.new ("Unniversity of Minnesota","Public", "Golden Gopher")
-wesleyan = 
+u_of_minn = Colleges.new ("University of Minnesota","Public", "Golden Gopher")
+wesleyan = Colleges.new ("Wesleyan", "Private", "Cardinal")
