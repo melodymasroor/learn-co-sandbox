@@ -1,6 +1,6 @@
 class Colleges
   
-    def 
+    def initialize(name, type, mascot)
+  end
   
 end
-  
