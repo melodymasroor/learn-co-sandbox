@@ -5,4 +5,4 @@ class Colleges
   
 end
 
-tamu 
+tamu = Colleges.new("A & M, Public","Reveille")
