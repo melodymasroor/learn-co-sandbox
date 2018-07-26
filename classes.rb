@@ -1,0 +1,6 @@
+class Colleges
+  
+    def 
+  
+end
+  
